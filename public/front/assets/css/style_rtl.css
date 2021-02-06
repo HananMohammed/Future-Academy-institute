@@ -1,0 +1,128 @@
+.ed_sociallink ul{
+    margin:0px;
+    padding:0px;
+    position: relative;
+    left: 400px;
+    top:-25px;
+}
+.follow-us{
+    position: relative;
+    left: 150px;
+    top:0px;
+}
+.language{
+    position: relative;
+    top: 0;
+    left: -90px !important;
+}
+.language .en a{
+    position: relative;
+    left: -20px;
+}
+.ed_time_executor ul li span {
+    float: left;
+}
+.welcome p{
+    position: relative;
+    top: 0;
+    right: -190px;
+}
+.ed_info_wrapper{
+    position: relative;
+    top: -25px;
+    left: -300px;
+}
+.ed_header_bottom {
+    margin-top:-60px;
+}
+.ed_header_bottom .form-inline .fa{
+    position: relative;
+    left: -100px;
+}
+.tp-caption{
+    offset-position: right !important;
+}
+.text-widget p i{
+    float: right;
+    position: relative;
+    right: -15px;
+}
+.ph{
+    margin-right:-30px;
+}
+.text-widget h4.widget-title:after {
+    right: -288px;
+}
+.widget.text-widget .ed_sociallink{
+    position: relative;
+    left: -200px;
+}
+.ed_footer_menu ul {
+    float: left;
+}
+.widget-title:after{
+    left: 190px;
+}
+.educo_call{
+    position: relative;
+    left: 170%;
+}
+.form-inline{
+    position: relative;
+    left: 230%;
+}
+#ed_menu{
+    top: 10px;
+}
+@media (max-width: 767px) {
+    .ed_info_wrapper{
+        top: -15px !important;
+        left: -50%;
+    }
+    .language{
+        position: relative;
+        top: -50px;
+        left: -90px !important;
+    }
+    .language .en a{
+        position: relative;
+        left: -70% !important;
+    }
+    .welcome{
+        position: relative;
+        right: 20%;
+    }
+    .ed_sociallink > ul{
+        position: relative;
+        right: -110%;
+    }
+    .follow-us{
+        left: 80%;
+    }
+    .edoco_menu_toggle{
+       position: relative;
+       right: 5%; 
+    }
+    #ed_menu{
+        position: relative;
+        left: -10% !important;
+    }
+    .educo_call {
+        position: relative;
+        left: 0%;
+    }
+    .educo_call i {
+        float: left;
+        position: relative;
+        left: 35%;
+        margin-top: 2.5px;
+    }
+    .form-inline {
+        position: relative;
+        left: 0%;
+    }
+    .ed_header_bottom .form-inline .fa {
+        position: relative;
+        left: -150px !important;
+    }
+}
