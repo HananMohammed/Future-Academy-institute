@@ -6,12 +6,11 @@ this is basic Realtime Social Media Single Page Application built using Laravel 
 ##Features
 <ul>
 <li>Authentication using Jetstream and Sanctum Library </li>
-<li>Laravel Events ,Pusher,and BroadCast </li>
+<li>Apply Solid Principles , OOP , Design Patterns</li>
 <li>Search Feature And Render Posts State Depending on Search </li>
 <li>Login, register, reset password</li>
-<li>Flexible Page Layout</li>
-<li>Users Following And Followers to Follow Each other timeLine </li>
-<li>Flexible, Protected Routing</li>
+<li>Flexible Pages Layout</li>
+<li>Dlexible Admin Panel</li>
 <li>Flexible, Protected Routing</li>
 </ul>
 
@@ -25,15 +24,6 @@ this is basic Realtime Social Media Single Page Application built using Laravel 
 <li>Bootstrap 4</li>
 <li>css3</li>
 <li> html5</li>
-
-<li>Authentication using Jetstream and Sanctum Library </li>
-<li>Laravel Events ,Pusher,and BroadCast </li>
-<li>Search Feature And Render Posts State Depending on Search </li>
-<li>Login, register, reset password</li>
-<li>Flexible Page Layout</li>
-<li>Users Following And Followers to Follow Each other timeLine </li>
-<li>Flexible, Protected Routing</li>
-<li>Flexible, Protected Routing</li>
 </ul>
 
 ##Laravel 8
@@ -65,4 +55,7 @@ Please follow the guide.
 ## License
 
 The Future Academy Portal is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Developed and Designed by hanan mohammed
 # Future Academy Website
+
